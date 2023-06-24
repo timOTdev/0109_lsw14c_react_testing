@@ -1,4 +1,4 @@
-# React Testing
+# 0109_lsw14c_react_testing
 
 This module builds upon the topic of client-side testing by extending it into the realm of React.
 
